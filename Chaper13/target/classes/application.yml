@@ -1,0 +1,21 @@
+server:
+  port: 8890
+
+logging:
+  path: logs
+  file: userManager.log
+
+spring:
+  application:
+    #name是应用程序的名称
+    name: userManager
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://47.106.229.244:3306/course?useSSL=false
+    username: root
+    password: Huanyi@123
+
+mybatis:
+  type-aliases-package: com.course.model
+  mapper-locations:
+    - mapper/*
