@@ -1,0 +1,24 @@
+2021-03-09 18:19:39.253 [main] INFO  com.course.Application - Starting Application using Java 11.0.8 on LAPTOP-K7BKCQK9 with PID 3356 (D:\IdeaProjects\javaautotest\Chapter11\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-09 18:19:39.255 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-09 18:19:39.767 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-09 18:19:40.164 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+2021-03-09 18:19:40.172 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-09 18:19:40.173 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-09 18:19:40.241 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-09 18:19:40.242 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 938 ms
+2021-03-09 18:19:40.486 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-09 18:19:40.624 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-09 18:19:40.660 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+2021-03-09 18:19:40.672 [main] INFO  com.course.Application - Started Application in 1.787 seconds (JVM running for 2.787)
+2021-03-09 18:22:36.943 [main] INFO  com.course.Application - Starting Application using Java 11.0.8 on LAPTOP-K7BKCQK9 with PID 9436 (D:\IdeaProjects\javaautotest\Chapter11\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-09 18:22:36.945 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-09 18:22:37.461 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-09 18:22:37.725 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+2021-03-09 18:22:37.730 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-09 18:22:37.730 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-09 18:22:37.775 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-09 18:22:37.775 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 780 ms
+2021-03-09 18:22:37.932 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-09 18:22:38.021 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-09 18:22:38.048 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+2021-03-09 18:22:38.057 [main] INFO  com.course.Application - Started Application in 1.436 seconds (JVM running for 2.187)

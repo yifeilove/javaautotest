@@ -1,0 +1,409 @@
+2021-03-15 09:41:05.472 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1d12h37m34s419ms286µs700ns).
+2021-03-15 09:51:56.859 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 19592 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 09:51:56.863 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 09:51:57.548 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 09:51:57.786 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$da252e8e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 09:51:58.057 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 09:51:58.073 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 09:51:58.073 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 09:51:58.079 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 09:51:58.189 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 09:51:58.190 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1290 ms
+2021-03-15 09:51:58.214 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 09:51:58.218 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 09:51:58.218 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 09:51:58.219 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 09:51:58.219 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 09:51:58.781 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 09:51:58.923 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 09:51:59.060 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 09:51:59.098 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 09:51:59.112 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 09:51:59.135 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 09:51:59.338 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 09:51:59.341 [main] INFO  com.course.Application - Started Application in 2.832 seconds (JVM running for 3.791)
+2021-03-15 14:42:11.934 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 13032 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 14:42:11.942 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 14:42:12.870 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 14:42:13.062 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e3ec3db6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 14:42:13.297 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 14:42:13.308 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 14:42:13.308 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 14:42:13.313 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 14:42:13.398 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 14:42:13.398 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1402 ms
+2021-03-15 14:42:13.420 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 14:42:13.423 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 14:42:13.423 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 14:42:13.423 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 14:42:13.423 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 14:42:13.854 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 14:42:13.941 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 14:42:14.039 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 14:42:14.077 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 14:42:14.088 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 14:42:14.109 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 14:42:14.255 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 14:42:14.257 [main] INFO  com.course.Application - Started Application in 2.735 seconds (JVM running for 3.627)
+2021-03-15 14:43:37.634 [http-nio-8890-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-15 14:43:37.634 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-15 14:43:37.641 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2021-03-15 14:43:37.694 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-15 14:43:38.350 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-15 14:53:23.021 [http-nio-8890-exec-3] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@416691b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 14:53:28.032 [http-nio-8890-exec-3] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@22acab77 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 14:53:33.043 [http-nio-8890-exec-3] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@409211d8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 14:53:38.051 [http-nio-8890-exec-3] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7fb9d390 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 14:53:43.056 [http-nio-8890-exec-3] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@108bc8fe (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 14:53:48.065 [http-nio-8890-exec-3] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@506026ff (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 14:53:48.105 [http-nio-8890-exec-3] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30075ms.
+### The error may exist in file [D:\IdeaProjects\javaautotest\Chaper13\target\classes\mapper\mysql.xml]
+### The error may involve com.course.login
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30075ms.] with root cause
+com.mysql.cj.exceptions.ConnectionIsClosedException: No operations allowed after connection closed.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.NativeSession.checkClosed(NativeSession.java:1259)
+	at com.mysql.cj.jdbc.ConnectionImpl.checkClosed(ConnectionImpl.java:575)
+	at com.mysql.cj.jdbc.ConnectionImpl.setNetworkTimeout(ConnectionImpl.java:2504)
+	at com.zaxxer.hikari.pool.PoolBase.setNetworkTimeout(PoolBase.java:550)
+	at com.zaxxer.hikari.pool.PoolBase.isConnectionAlive(PoolBase.java:165)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:179)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:155)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:128)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:151)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:115)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:78)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:82)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:68)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:84)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy65.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166)
+	at com.course.controller.UserManager.login(UserManager.java:38)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-03-15 14:53:53.420 [http-nio-8890-exec-7] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@36eb0d6a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 14:53:58.429 [http-nio-8890-exec-7] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3c13661a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 14:54:03.434 [http-nio-8890-exec-7] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@17ff3de9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 14:54:08.437 [http-nio-8890-exec-7] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6fa6fca4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2021-03-15 18:16:45.976 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 15072 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 18:16:45.981 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 18:16:46.946 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 18:16:47.135 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bc79d0b8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 18:16:47.347 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 18:16:47.359 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 18:16:47.359 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 18:16:47.364 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 18:16:47.450 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 18:16:47.451 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1417 ms
+2021-03-15 18:16:47.472 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 18:16:47.475 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 18:16:47.475 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 18:16:47.475 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 18:16:47.475 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 18:16:47.900 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 18:16:47.988 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 18:16:48.087 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 18:16:48.122 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 18:16:48.134 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 18:16:48.155 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 18:16:48.316 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 18:16:48.318 [main] INFO  com.course.Application - Started Application in 2.77 seconds (JVM running for 3.84)
+2021-03-15 18:16:48.520 [http-nio-8890-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-15 18:16:48.520 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-15 18:16:48.526 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2021-03-15 18:17:09.209 [http-nio-8890-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-15 18:17:09.885 [http-nio-8890-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-15 18:26:35.117 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 11832 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 18:26:35.121 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 18:26:36.074 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 18:26:36.273 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b78f155c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 18:26:36.487 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 18:26:36.498 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 18:26:36.499 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 18:26:36.503 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 18:26:36.590 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 18:26:36.590 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1414 ms
+2021-03-15 18:26:36.612 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 18:26:36.615 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 18:26:36.615 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 18:26:36.615 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 18:26:36.615 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 18:26:37.051 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 18:26:37.140 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 18:26:37.239 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 18:26:37.273 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 18:26:37.284 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 18:26:37.305 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 18:26:37.446 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 18:26:37.449 [main] INFO  com.course.Application - Started Application in 2.682 seconds (JVM running for 3.569)
+2021-03-15 18:26:49.096 [http-nio-8890-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-15 18:26:49.096 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-15 18:26:49.101 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2021-03-15 18:26:49.162 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-15 18:26:49.791 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-15 18:36:27.291 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 2676 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 18:36:27.295 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 18:36:28.180 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 18:36:28.368 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1baa84dd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 18:36:28.580 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 18:36:28.591 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 18:36:28.592 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 18:36:28.596 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 18:36:28.682 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 18:36:28.682 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1339 ms
+2021-03-15 18:36:28.704 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 18:36:28.706 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 18:36:28.707 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 18:36:28.707 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 18:36:28.707 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 18:36:29.136 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 18:36:29.223 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 18:36:29.322 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 18:36:29.357 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 18:36:29.370 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 18:36:29.391 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 18:36:29.536 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 18:36:29.538 [main] INFO  com.course.Application - Started Application in 2.642 seconds (JVM running for 3.544)
+2021-03-15 18:36:36.232 [http-nio-8890-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-15 18:36:36.232 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-15 18:36:36.238 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2021-03-15 18:36:36.291 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-15 18:36:36.932 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-15 18:45:17.780 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 5576 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 18:45:17.786 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 18:45:18.657 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 18:45:18.849 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4290ccc6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 18:45:19.074 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 18:45:19.085 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 18:45:19.086 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 18:45:19.091 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 18:45:19.180 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 18:45:19.180 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1347 ms
+2021-03-15 18:45:19.202 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 18:45:19.204 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 18:45:19.205 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 18:45:19.205 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 18:45:19.205 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 18:45:19.632 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 18:45:19.720 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 18:45:19.818 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 18:45:19.852 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 18:45:19.863 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 18:45:19.884 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 18:45:20.032 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 18:45:20.034 [main] INFO  com.course.Application - Started Application in 2.662 seconds (JVM running for 3.585)
+2021-03-15 18:45:34.122 [http-nio-8890-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-15 18:45:34.122 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-15 18:45:34.127 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2021-03-15 18:45:34.188 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-15 18:45:34.850 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-15 18:46:58.441 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 6444 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 18:46:58.447 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 18:46:59.339 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 18:46:59.530 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3dbbcfee] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 18:46:59.755 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 18:46:59.766 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 18:46:59.766 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 18:46:59.771 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 18:46:59.859 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 18:46:59.859 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1369 ms
+2021-03-15 18:46:59.880 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 18:46:59.883 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 18:46:59.884 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 18:46:59.884 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 18:46:59.884 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 18:47:00.320 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 18:47:00.410 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 18:47:00.508 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 18:47:00.541 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 18:47:00.552 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 18:47:00.574 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 18:47:00.723 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 18:47:00.726 [main] INFO  com.course.Application - Started Application in 2.698 seconds (JVM running for 3.688)
+2021-03-15 18:47:29.226 [http-nio-8890-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-15 18:47:29.226 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-15 18:47:29.231 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2021-03-15 18:47:29.279 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-15 18:47:29.940 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-15 18:51:18.357 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 13844 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 18:51:18.365 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 18:51:19.255 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 18:51:19.443 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$89bff27] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 18:51:19.655 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 18:51:19.666 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 18:51:19.667 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 18:51:19.671 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 18:51:19.758 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 18:51:19.758 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1344 ms
+2021-03-15 18:51:19.779 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 18:51:19.782 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 18:51:19.782 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 18:51:19.782 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 18:51:19.783 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 18:51:20.212 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 18:51:20.299 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 18:51:20.398 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 18:51:20.432 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 18:51:20.444 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 18:51:20.465 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 18:51:20.612 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 18:51:20.615 [main] INFO  com.course.Application - Started Application in 2.668 seconds (JVM running for 3.581)
+2021-03-15 18:53:13.702 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 15340 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 18:53:13.706 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 18:53:14.549 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 18:53:14.742 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$acda2d9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 18:53:14.952 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 18:53:14.963 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 18:53:14.964 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 18:53:14.968 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 18:53:15.053 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 18:53:15.053 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1297 ms
+2021-03-15 18:53:15.075 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 18:53:15.077 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 18:53:15.078 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 18:53:15.078 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 18:53:15.078 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 18:53:15.521 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 18:53:15.609 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 18:53:15.708 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 18:53:15.743 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 18:53:15.754 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 18:53:15.775 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 18:53:15.921 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 18:53:15.924 [main] INFO  com.course.Application - Started Application in 2.62 seconds (JVM running for 3.546)
+2021-03-15 18:53:24.578 [http-nio-8890-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-15 18:53:24.578 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-15 18:53:24.584 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2021-03-15 18:53:24.634 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-15 18:53:25.230 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-15 19:51:52.738 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 6472 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 19:51:52.743 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 19:51:53.676 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 19:51:53.879 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8ef375a4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 19:51:54.095 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 19:51:54.106 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 19:51:54.106 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 19:51:54.111 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 19:51:54.195 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 19:51:54.195 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1407 ms
+2021-03-15 19:51:54.217 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 19:51:54.220 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 19:51:54.220 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 19:51:54.220 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 19:51:54.220 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 19:51:54.677 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 19:51:54.765 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 19:51:54.863 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 19:51:54.897 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 19:51:54.909 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 19:51:54.930 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 19:51:55.068 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 19:51:55.071 [main] INFO  com.course.Application - Started Application in 2.798 seconds (JVM running for 3.788)
+2021-03-15 19:52:22.672 [http-nio-8890-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-15 19:52:22.672 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-15 19:52:22.677 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2021-03-15 19:52:22.740 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-15 19:52:23.341 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-15 20:11:44.650 [main] INFO  com.course.Application - Starting Application on LAPTOP-K7BKCQK9 with PID 13356 (D:\IdeaProjects\javaautotest\Chaper13\target\classes started by liliking in D:\IdeaProjects\javaautotest)
+2021-03-15 20:11:44.656 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-03-15 20:11:45.733 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-03-15 20:11:45.921 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$16c0afd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-15 20:11:46.134 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8890 (http)
+2021-03-15 20:11:46.146 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-15 20:11:46.146 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-03-15 20:11:46.151 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Python39\Scripts\;D:\Python39\;C:\Users\liliking\python38\;C:\Users\liliking\python38\Scripts\;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Java\jdk-11.0.8\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\allure-2.13.5\bin;C:\Users\liliking\Python38\;C:\Users\liliking\Python38\Scripts;D:\Snipaste-2.5.6-Beta-x64;D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;D:\Git\cmd;C:\Users\liliking\python38\Scripts\;C:\Users\liliking\python38\;C:\Users\liliking\Scripts\;C:\Users\liliking\;C:\Users\liliking\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.3.3\bin;;D:\Fiddler;D:\idea-3\IntelliJ IDEA 2020.1.1\bin;;.]
+2021-03-15 20:11:46.236 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 20:11:46.236 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1496 ms
+2021-03-15 20:11:46.258 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2021-03-15 20:11:46.261 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-03-15 20:11:46.261 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-03-15 20:11:46.261 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2021-03-15 20:11:46.261 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2021-03-15 20:11:46.707 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-15 20:11:46.794 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 20:11:46.895 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-03-15 20:11:46.930 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-03-15 20:11:46.941 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-15 20:11:46.962 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-15 20:11:47.113 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8890 (http) with context path ''
+2021-03-15 20:11:47.116 [main] INFO  com.course.Application - Started Application in 2.837 seconds (JVM running for 3.734)
+2021-03-15 20:11:56.783 [http-nio-8890-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-15 20:11:56.783 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-03-15 20:11:56.788 [http-nio-8890-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2021-03-15 20:11:56.837 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-03-15 20:11:57.499 [http-nio-8890-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-03-15 20:13:45.579 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47s976ms895µs).
