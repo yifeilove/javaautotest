@@ -35,8 +35,10 @@ public class AddUserTest {
         //2、验证请求的返回结果
         //数据库验证
         User user=session.selectOne("addUser",addUserCase);
+        Thread.sleep(6000);
         System.out.println(user.toString());
         //预期断言
+        Thread.sleep(6000);
         Assert.assertEquals(addUserCase.getExpected(),result);
     }
 

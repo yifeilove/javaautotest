@@ -63,7 +63,7 @@ public class UserManager {
         //如果x不为空,意味着User里面的用户不在数据库里面
         if(x!=null){
             result = template.insert("addUser",user);
-            log.info("添加用户失败");
+            //log.info("添加用户失败");
         }
         if(result >0){
             log.info("添加用户的数量是："+result);
